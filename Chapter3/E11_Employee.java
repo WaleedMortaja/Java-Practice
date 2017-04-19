@@ -20,7 +20,7 @@ Supply an EmployeeTester class that tests all methods.
 /**
  * Calculate employees’ salaries. 
  */
-public class Employee
+public class E11_Employee
 {
     private final String name;
     private double salary;
