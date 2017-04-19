@@ -6,7 +6,7 @@ years is the account depleted?
 */
 
 // PS : the question wants the algorithm only, but I wrote it as code
-public class R113 {
+public class R13_BankAccount {
 
     public static void main(String[] args) {
         int month = 0;
