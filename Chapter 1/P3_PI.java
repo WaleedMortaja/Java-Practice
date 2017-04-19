@@ -1,4 +1,4 @@
-public class P3 {
+public class P3_PI {
 
     public static void main(String[] args) {
         double pi = 0;
