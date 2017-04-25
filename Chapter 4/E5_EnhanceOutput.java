@@ -11,7 +11,7 @@ Minimum: 20
 
 import java.util.Scanner;  // import Scanner Class.
 
-public class E5 {
+public class E5_EnhanceOutput {
 
     public static void main(String[] args) {
         int x, y;  // define two integer variables with the names of x and y.
