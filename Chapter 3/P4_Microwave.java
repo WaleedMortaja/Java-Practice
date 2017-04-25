@@ -6,7 +6,7 @@ The method for the start button should print a message “Cooking for ... second
 at level ...”.
 */
 
-public class Microwave
+public class P4_Microwave
 {
     private int time;
     private byte powerLevel;
