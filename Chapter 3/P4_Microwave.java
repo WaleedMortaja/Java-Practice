@@ -6,6 +6,12 @@ The method for the start button should print a message “Cooking for ... second
 at level ...”.
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
+
 public class P4_Microwave
 {
     private int time;
@@ -14,7 +20,7 @@ public class P4_Microwave
     /**
      * Constructor for objects of class P4_Microwave
      */
-    public Microwave()
+    public P4_Microwave()
     {time =0;
      powerLevel=1;
     }
