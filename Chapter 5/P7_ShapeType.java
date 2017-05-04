@@ -6,6 +6,12 @@ or none of those shapes.
 PS : still under maintenece ...
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
+
 import java.util.Scanner;
 
 public class P7_ShapeType {
