@@ -9,6 +9,12 @@ Maximum: 25
 Minimum: 20
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
+
 import java.util.Scanner;  // import Scanner Class.
 
 public class E5_EnhanceOutput {
