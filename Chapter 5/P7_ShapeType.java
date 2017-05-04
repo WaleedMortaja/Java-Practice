@@ -46,10 +46,10 @@ public class P7_ShapeType {
         }
         
         else if (x2 - x1 == x4 - x3 && y3 - y1 == y4 - y2) {
-            System.out.println("متوازي أضلاع");
+            System.out.println("rhombus");
             
         }    
-        else { System.out.println("شكل غير الأشكال المطلوبة");}
+        else { System.out.println("none of those shapes");}
         
         
     }
