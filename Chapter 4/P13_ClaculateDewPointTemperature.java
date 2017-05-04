@@ -9,6 +9,11 @@ Write a program that reads the relative humidity (between 0 and 1) and the tempe
 compute the natural logarithm.
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 
 import java.util.Scanner;
 
