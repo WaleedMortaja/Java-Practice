@@ -18,6 +18,7 @@ Supply an EmployeeTester class that tests all methods.
 
 
 /**
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
  * Calculate employees’ salaries. 
  */
 public class E11_Employee
