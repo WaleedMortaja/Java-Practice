@@ -6,6 +6,10 @@ and vertical size of the television. Your inputs are
 the diagonal size and the aspect ratio (the ratio of
 width to height, usually 16 : 9 for television sets).
 
+/**
+ * @author Waleed Mortaja, contact Email : waleed.mortaja@gmail.com
+ */
+
 The answer:
 1. Enter the inputs (the diagonal size and the aspect ratio).
 2. Calculate the angle theta  using tan inverse and aspect ratio = atan(height/width)
