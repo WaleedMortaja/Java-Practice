@@ -13,6 +13,9 @@ Add a comment to your program that explains how you can
 tell whether the resulting rectangle is empty.
 */
 
+/**
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 
 import java.awt.Rectangle;
 
