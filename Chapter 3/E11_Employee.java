@@ -18,8 +18,8 @@ Supply an EmployeeTester class that tests all methods.
 
 
 /**
- * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
- * Calculate employees’ salaries. 
+ * Calculate employees’ salaries.
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a> 
  */
 public class E11_Employee
 {
@@ -31,7 +31,7 @@ public class E11_Employee
     * @param employeeName employee name
     * @param currentSalary employee current salary
     */
-    public Employee(String employeeName, double currentSalary)
+    public E11_Employee(String employeeName, double currentSalary)
     {
     name = employeeName;
     salary=currentSalary;
