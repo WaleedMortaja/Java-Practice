@@ -6,6 +6,11 @@ Please enter an integer between 1,000 and 999,999: 23,456
 23456
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 
 import java.util.Scanner;
 
