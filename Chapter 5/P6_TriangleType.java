@@ -4,6 +4,12 @@ triangle and prints out whether it has an obtuse angle, a right angle, or only a
 angles.
 */
 
+/**
+ *
+ * @author Waleed Mortaja,
+ *contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
+
 import java.util.Scanner;
 
 public class P6_TriangleType {
