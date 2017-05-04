@@ -4,6 +4,10 @@ P1.3 The value of π can be computed according to the following formula:
 Write an algorithm to compute π. Because the formula is an infinite series and an
 algorithm must stop after a finite number of steps, you should stop when you have
 the result determined to six significant digits.*/
+
+/**
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 public class P3_PI {
 
     public static void main(String[] args) {
