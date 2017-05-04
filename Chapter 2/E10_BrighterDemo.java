@@ -9,6 +9,9 @@ to display the color.)
 E2.10 : display your code
 */
 
+/**
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 
 import java.awt.Color;
 import javax.swing.JFrame;
