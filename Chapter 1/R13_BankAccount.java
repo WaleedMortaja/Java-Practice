@@ -6,6 +6,9 @@ years is the account depleted?
 */
 
 // PS : the question wants the algorithm only, but I wrote it as code
+/**
+ * @author Waleed Mortaja, contact Email : <a href="mailto:waleed.mortaja@gmail.com">waleed.mortaja@gmail.com</a>
+ */
 public class R13_BankAccount {
 
     public static void main(String[] args) {
